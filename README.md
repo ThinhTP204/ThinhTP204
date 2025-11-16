@@ -2,18 +2,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=30&pause=1000&color=36BCF7&center=true&width=435&lines=Hi+there%2C+I'm+Thinh!+👋;I'm+a+Frontend+Developer.;I+build+things+for+the+web." alt="Animated typing text" />
 </p>
 
-<h3 align="center">About Me 👨‍💻</h3>
-<p align="center">
+<h2>👨‍💻 About Me</h2>
+
+<p>
   I am a passionate <strong>Frontend Developer</strong> focused on building high-performance, scalable, and user-centric web applications.
-  <br><br>
-  My current core stack includes <strong>Next.js</strong>, <strong>React</strong>, and <strong>TypeScript</strong>. I specialize in state management with <strong>Zustand</strong> and asynchronous data handling with <strong>TanStack Query</strong>. I'm proficient in deploying applications seamlessly on <strong>Vercel</strong>.
-  <br><br>
+</p>
+
+<ul>
+  <li>🚀 My current core stack includes <strong>Next.js</strong>, <strong>React</strong>, and <strong>TypeScript</strong>.</li>
+  <li>🧠 I specialize in state management with <strong>Zustand</strong> and asynchronous data handling with <strong>TanStack Query</strong>.</li>
+  <li>☁️ I'm proficient in deploying applications seamlessly on <strong>Vercel</strong>.</li>
+</ul>
+
+<p>
   🌱 I’m always learning and eager to contribute to impactful projects.
 </p>
 
 ---
 
-<h3 align="center">Technologies and Tools 🛠️</h3>
+<h2>🛠️ Technologies and Tools</h2>
+
 <p align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
@@ -35,7 +43,8 @@
 
 ---
 
-<h3 align="center">My GitHub Stats 📈</h3>
+<h2>📈 My GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThinhTP204&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" alt="ThinhTP204's GitHub stats" height="195px" />
   
@@ -43,7 +52,9 @@
 </p>
 
 ---
-<h3 align="center">Connect With Me 🤝</h3>
+
+<h2>🤝 Connect With Me</h2>
+
 <p align="center">
   <a href="https://www.facebook.com/thnh.kevin">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
