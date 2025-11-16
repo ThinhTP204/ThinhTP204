@@ -43,16 +43,12 @@
 </p>
 
 ---
-
 <h3 align="center">Connect With Me 🤝</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/TEN-LINKEDIN-CUA-BAN">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://www.facebook.com/thnh.kevin">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:EMAIL-CUA-BAN@gmail.com">
+  <a href="mailto:tptvt.2002@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
