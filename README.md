@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=30&amp;duration=2600&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=120&amp;lines=Hi%2C+I'm+Thinh+Tran;Frontend+Developer+%7C+Web+%26+Mobile+Builder;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Flutter;I+build+clean%2C+scalable%2C+user-centered+interfaces" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=30&amp;duration=2600&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=120&amp;lines=Hi%2C+I'm+Thinh+Tran;Frontend+Developer+%7C+Web+%26+Mobile+Builder;AI-powered+product+builder;I+build+clean%2C+scalable%2C+user-centered+interfaces" alt="Animated introduction" />
 </div>
 
 <div align="center">
@@ -14,6 +14,7 @@ Frontend Developer focused on clean UI, smooth interactions, and maintainable pr
 
 - Building with Next.js, React, TypeScript, Flutter, and modern UI systems.
 - Interested in design systems, realtime apps, mobile UX, and creative web experiences.
+- Exploring AI-powered development, LLM apps, agent workflows, and applied machine learning.
 - I like shipping interfaces that feel simple, useful, and reliable.
 
 ---
@@ -21,24 +22,41 @@ Frontend Developer focused on clean UI, smooth interactions, and maintainable pr
 ## Tech Stack
 
 <p align="center">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=000000" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" />
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&amp;logo=shadcnui&amp;logoColor=white" />
-  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&amp;logo=react-query&amp;logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" />
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,flutter,dart,threejs,figma,vercel,git,github,docker&amp;perline=7" alt="Tech stack icons" />
 </p>
+
+---
+
+## AI-Powered Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&amp;perline=3" alt="AI and machine learning icons" />
+  <br />
+  <img width="40" height="40" alt="OpenAI" src="https://api.iconify.design/simple-icons:openai.svg?color=%2338BDF8" />
+  &nbsp;
+  <img width="40" height="40" alt="Claude" src="https://api.iconify.design/simple-icons:anthropic.svg?color=%23D97757" />
+  &nbsp;
+  <img width="40" height="40" alt="Cursor" src="https://www.cursor.com/favicon.svg" />
+  &nbsp;
+  <img width="40" height="40" alt="LangChain" src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300BFA5" />
+  &nbsp;
+  <img width="40" height="40" alt="Hugging Face" src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23FFD21E" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=17&amp;duration=2400&amp;pause=700&amp;color=94A3B8&amp;center=true&amp;vCenter=true&amp;width=860&amp;height=60&amp;lines=Claude+%E2%80%A2+OpenAI+APIs+%E2%80%A2+Cursor+workflows;LLM+apps+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+Tool+calling;LangChain+%E2%80%A2+LangGraph+%E2%80%A2+Prompt+%26+Harness+Engineering" alt="AI development animation" />
+</div>
+
+- Building AI-assisted workflows for faster product iteration and code review.
+- Learning LLM application patterns: RAG, tool calling, evals, agents, and memory.
+- Exploring LangChain, LangGraph, prompt engineering, and harness engineering for reliable AI systems.
 
 ---
 
 ## Learning Now
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Next.js+App+Router+%E2%80%A2+Server+Components+%E2%80%A2+Caching;Flutter+Architecture+%E2%80%A2+GetX+%E2%80%A2+Mobile+Interaction+Polish;Three.js+%E2%80%A2+React+Three+Fiber+%E2%80%A2+Creative+Web" alt="Learning animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=18&amp;duration=2400&amp;pause=700&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Next.js+App+Router+%E2%80%A2+Server+Components+%E2%80%A2+Caching;Flutter+Architecture+%E2%80%A2+GetX+%E2%80%A2+Mobile+Interaction+Polish;Three.js+%E2%80%A2+React+Three+Fiber+%E2%80%A2+Creative+Web;LLM+Apps+%E2%80%A2+LangGraph+%E2%80%A2+AI+Engineering" alt="Learning animation" />
 </div>
 
 ---
@@ -65,16 +83,19 @@ Frontend Developer focused on clean UI, smooth interactions, and maintainable pr
 
 <p align="center">
   <a href="https://www.facebook.com/thnh.kevin">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" />
+    <img width="34" height="34" alt="Facebook" src="https://api.iconify.design/simple-icons:facebook.svg?color=%231877F2" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-ph%C3%BA-67733b399/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+    <img width="34" height="34" alt="LinkedIn" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:tptvt.2002@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+    <img width="34" height="34" alt="Gmail" src="https://api.iconify.design/simple-icons:gmail.svg?color=%23D14836" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/ThinhTP204">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+    <img width="34" height="34" alt="GitHub" src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" />
   </a>
 </p>
 
